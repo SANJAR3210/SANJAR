@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/pdo-tomsk-tti/static/css/main.519418d8.css",
-    "main.js": "/pdo-tomsk-tti/static/js/main.dbb59067.js",
-    "index.html": "/pdo-tomsk-tti/index.html",
-    "main.519418d8.css.map": "/pdo-tomsk-tti/static/css/main.519418d8.css.map",
-    "main.dbb59067.js.map": "/pdo-tomsk-tti/static/js/main.dbb59067.js.map"
+    "main.css": "/SANJAR/static/css/main.6fbc87a6.css",
+    "main.js": "/SANJAR/static/js/main.41dfd1bd.js",
+    "index.html": "/SANJAR/index.html",
+    "main.6fbc87a6.css.map": "/SANJAR/static/css/main.6fbc87a6.css.map",
+    "main.41dfd1bd.js.map": "/SANJAR/static/js/main.41dfd1bd.js.map"
   },
   "entrypoints": [
-    "static/css/main.519418d8.css",
-    "static/js/main.dbb59067.js"
+    "static/css/main.6fbc87a6.css",
+    "static/js/main.41dfd1bd.js"
   ]
 }
