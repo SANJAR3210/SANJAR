@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/pdo-tomsk-tti/static/css/main.519418d8.css",
+    "main.js": "/pdo-tomsk-tti/static/js/main.dbb59067.js",
+    "index.html": "/pdo-tomsk-tti/index.html",
+    "main.519418d8.css.map": "/pdo-tomsk-tti/static/css/main.519418d8.css.map",
+    "main.dbb59067.js.map": "/pdo-tomsk-tti/static/js/main.dbb59067.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.519418d8.css",
+    "static/js/main.dbb59067.js"
+  ]
+}
